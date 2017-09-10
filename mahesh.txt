@@ -4,7 +4,7 @@
 mykey=myvalue
 
 #hac.webroot=/hac
-tomcat.http.port=900712
+tomcat.http.port=9007121234
 tomcat.ssl.port=9002
 tomcat.ajp.port=8009
 tomcat.ajp.secureport=8010
